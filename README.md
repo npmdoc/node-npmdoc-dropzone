@@ -3,7 +3,7 @@
 
 [![NPM](https://nodei.co/npm/dropzone.png?downloads=true)](https://www.npmjs.com/package/dropzone)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-dropzone/build/screenCapture.buildNpmdoc.browser.%2Fhome%2Ftravis%2Fbuild%2Fnpmdoc%2Fnode-npmdoc-dropzone%2Ftmp%2Fbuild%2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-dropzone/build/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-dropzone/build/screenCapture.buildNpmdoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-dropzone%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-dropzone/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-dropzone/build/screenCapture.npmPackageListing.svg)
 
